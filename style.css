@@ -1,0 +1,25 @@
+.satisfy-regular {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}  
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.but1{
+    border-style: none;
+}
+.h1{
+    font-family: ;
+}
+.secimg{
+    position: relative;
+    top: -52%;
+    left: 8%;
+    width: 41%;
+}
